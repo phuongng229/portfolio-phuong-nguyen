@@ -1,0 +1,117 @@
+.background {
+  background-color: #e5e5dc;
+  background-size: 180% 180%;
+}
+
+.background-feature {
+  background-color: #151515;
+  background-size: 180% 180%;
+}
+
+.bg-body-tertiary {
+  background-color: #151515 !important;
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 100px;
+  border-radius: 50%;
+}
+
+.img-fluid {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+h1.display-1 {
+  font-family: "Neutraface-bold";
+  font-size: clamp(2.5rem, 10vw, 11rem);
+  letter-spacing: -0.09em !important;
+  color: #151515 !important;
+  margin-top: 2rem;
+}
+
+p {
+  font-family: "Neutraface-book";
+  color: #151515 !important;
+}
+
+.text-feature {
+  color: #C7C7C7 !important;
+}
+
+.text-feature.text-body-secondary {
+  color: #8e8e8e !important;
+}
+
+.text-body-secondary {
+  font-family: "Neutraface-book";
+  color: #8e8e8e !important;
+}
+
+p.intro {
+  font-family: "Neutraface-book";
+  font-size: clamp(20px, 2vw, rem);
+  color: #151515 !important;
+}
+
+.card-body {
+  background-color: #151515 !important;
+}
+
+p.card-text {
+  color: #C7C7C7 !important;
+}
+
+.fs-5 {
+  font-family: "Neutraface-book";
+  color: #303030 !important;
+}
+
+.nav-item {
+  font-family: "Neutraface-book";
+  color: #303030 !important;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #151515;
+  color: #fcfcfc !important;
+}
+
+.nav-link {
+  font-family: "Neutraface-book";
+  color: #303030 !important;
+}
+
+.d-block {
+  height: clamp(10rem, 25vw, 20rem);
+  width: clamp(10rem, 25vw, 20rem);
+}
+
+h2.fw-bold {
+  font-family: "Neutraface-demi";
+  font-size: calc(1.470rem + .9vw);
+  line-height: normal !important;
+  color: #d8d8d8 !important;
+}
+
+h2.projects {
+  font-family: "Neutraface-bold";
+  font-size: clamp(2rem, 8vw, 10rem);
+  color: #d8d8d8 !important;
+}
+
+.footer-signature {
+  font-family: "Neutraface-bold";
+  font-size: clamp(1rem, 9vw, 11rem);
+  color: #d8d8d8 !important;
+}
+
+.h4, h4 {
+  font-family: "Neutraface-book";
+}
